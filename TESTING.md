@@ -40,8 +40,8 @@ Use one of these valid accounts:
 
 - **Username**: `balu`, **Password**: `123`
 - **Username**: `yaswanth`, **Password**: `123`
-- **Username**: `bhagya lakshmi`, **Password**: `123`
-- **Username**: `gopala krishna`, **Password**: `123`
+- **Username**: `person1`, **Password**: `123`
+- **Username**: `person2`, **Password**: `123`
 
 ### 3. Test Basic Chat
 

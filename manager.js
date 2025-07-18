@@ -102,7 +102,7 @@ class Manager {
       }
 
       // Predefined users (same as Go version)
-      const validUsers = ['balu', 'yaswanth', 'bhagya lakshmi', 'gopala krishna']
+      const validUsers = ['balu', 'yaswanth', 'person1', 'person2']
 
       if (validUsers.includes(username) && password === '123') {
         const otp = this.otpManager.generateOtp()
