@@ -101,7 +101,7 @@ class Manager {
         return res.status(400).json({ error: 'Username and password required' })
       }
 
-      // Predefined users (same as Go version)
+      // Predefined users
       const validUsers = ['balu', 'yaswanth', 'person1', 'person2']
 
       if (validUsers.includes(username) && password === '123') {
