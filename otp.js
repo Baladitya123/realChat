@@ -69,7 +69,7 @@ class OtpManager {
   }
 
   startCleanupTimer() {
-    // Clean up expired OTPs every 400ms (similar to Go version)
+    // Clean up expired OTPs every 400ms 
     setInterval(() => {
       const now = new Date()
 
