@@ -78,8 +78,8 @@ The following users are pre-configured with password "123":
 
 - balu
 - yaswanth
-- bhagya lakshmi
-- gopala krishna
+- person1
+- person2
 
 ## WebSocket Events
 

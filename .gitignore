@@ -71,3 +71,7 @@ jspm_packages/
 
 # DynamoDB Local files
 .dynamodb/
+
+COMPARISON.md
+
+TESTING.md
