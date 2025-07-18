@@ -15,7 +15,7 @@ class Client {
   }
 
   setupPingPong() {
-    // Set up ping interval (9 seconds, similar to Go version)
+    // Set up ping interval (9 seconds )
     this.pingInterval = setInterval(() => {
       if (!this.isAlive) {
         console.log(`Client ${this.name} is not responding, terminating connection`)
